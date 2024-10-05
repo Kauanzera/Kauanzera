@@ -13,4 +13,3 @@ começando a aprender sobre Lógica de Programação usando o Portugol, e termin
 ## 🔗 Onde me Encontrar:
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauan_sants/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![DISCORD](https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
