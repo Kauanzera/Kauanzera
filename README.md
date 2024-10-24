@@ -11,5 +11,5 @@ começando a aprender sobre Lógica de Programação usando o Portugol, e termin
 - ***[Java - Udemy](https://www.java.com/pt-BR/)*** -> 07/2024 - Em andamento.
 - **[Bootcamp Claro - *Java com Spring Boot*](https://web.dio.me/track/coding-the-future-claro-java-spring-boot)** -> 07/2024 - Em andamento.
 ## 🔗 Onde me Encontrar:
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauan_sants/)
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauanzera_/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
