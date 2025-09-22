@@ -9,8 +9,6 @@ começando a aprender sobre Lógica de Programação usando o Portugol, e termin
 ### 💻 Cursos de Extensão:
 ► ***Python - Curso em Vídeo*** → 2/3 módulos completos.
 
-► ***GFT Start Java - DIO Bootcamp*** → Em andamento.
-
 ► ***Java - Udemy*** → Em andamento.
 ## 🔗 Onde me Encontrar:
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauanzera_/)
